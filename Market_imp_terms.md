@@ -18,3 +18,14 @@ P/E ratio - P/E is the issue price divided by the most recent Earning Per Share 
 
 ISIN - International Securities Identification Number is a unique identification number for a security across universe.
 
+
+
+# Groups based on market capitalization
+
+## Large-cap stocks – The market capitalization value of large-cap company’s share is more than 10 billion rupees.
+
+
+## Mid-cap stocks – The second group is the stocks of companies with a market capitalization in between two and ten billion rupees comes under the mid-cap.
+
+
+## Small cap stocks – The last group in this segment is that of small cap. These are stocks of companies whose market capitalization lies in between rupees 300 million and rupees 2 billion.
