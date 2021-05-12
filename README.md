@@ -10,3 +10,4 @@ STT - Securities Transaction Tax (STT) is a tax being levied on all transactions
 EPS - Earnings Per Share -->EPS is the post tax profits of the company divided by the number of shares issued by the company.
 P/E ratio - P/E is the issue price divided by the most recent Earning Per Share EPS .This ratio tells you if the issue is under-priced or over-priced vis-à-vis the industry P/E. 
 ISIN - International Securities Identification Number is a unique identification number for a security across universe.
+
